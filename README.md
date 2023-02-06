@@ -78,7 +78,6 @@ In my case, with a rtx 4080 the tensorflow version was 23.01.
 docker run --gpus all -it --rm nvcr.io/nvidia/tensorflow:23.01-tf2-py3
 ```
 
-<h2 align="center">Stack used</h2>
 <p align="center">
 <a href="#"><img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"></a>
 <a href="#"><img src="https://img.shields.io/badge/-Nvidia-76b900?style=for-the-badge&logo=Nvidia&logoColor=white"></a>
